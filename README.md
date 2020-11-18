@@ -1,5 +1,5 @@
 Author: 
-Shashank Dattathri,  
+Shashank Dattathri 
 IISc UG 3rd Year
 
 Duration of Project: 
